@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "redate-photo": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\data\\temp\\photo"
+    }
+  }
+}
